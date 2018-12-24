@@ -283,6 +283,11 @@ header .intro-text {
     padding-bottom: 50px;
 }
 
+header .intro-blog {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
@@ -864,4 +869,13 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+article {
+    padding: 40px;
+}
+
+.blog img {
+    width: 100%;
+    max-width: 400px;
 }

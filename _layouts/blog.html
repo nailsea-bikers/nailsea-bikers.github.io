@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+    <body id="page-top" class="index">  
+    {% include blog-navigation.html %}
+    <header>
+        <div class="container">
+          <div class="intro-blog">
+            <h1>Nailsea Bike Show Blog</h1>
+          </div>
+        </div>
+    </header>
+    <article>
+      <p>{{ page.date | date: "%-d/%b/%Y" }}</p>
+      <h1>{{ page.title }}</h1>
+      <img src="{{ site.baseurl }}/img/blog/{{ page.img }}" class="img-responsive img-centered" alt="{{ page.alt }}">
+      {{ content }}
+    </article>
+    {% include footer.html %}
+    {% include js.html %}
+
+
+    </body>
+</html>

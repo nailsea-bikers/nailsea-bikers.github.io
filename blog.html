@@ -1,0 +1,31 @@
+---
+layout: blog
+permalink: /blog/
+---
+
+<div class="blog">
+
+  <h1>Posts</h1>
+
+  {% for post in site.posts %}
+  {% if post.category == 'blog' %}
+  <hr />
+  <div class="row">
+    <div class="col-sm-5">
+      <img src="{{ site.baseurl }}/img/blog/{{ post.thumbnail }}" align="center" />
+    </div>
+    <div class="col-sm-7">
+      <p>
+        <span class="post-date">{{ post.date | date: "%-d/%b/%Y" }}</span>
+        <a href="{{ site.baseurl }}{{ post.url }}"><h3>{{ post.title }}</h3></a>
+      </p>
+      <p>{{ post.content | strip_html | truncatewords: 40 }}
+      </p>
+    </div>
+  </div>
+  {% endif %}
+  {% endfor %}
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
