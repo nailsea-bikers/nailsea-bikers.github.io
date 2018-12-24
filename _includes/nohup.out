@@ -1,0 +1,18 @@
+[33mConfiguration file: none[0m
+            Source: /home/david/git/agency-jekyll-theme/_includes
+       Destination: /home/david/git/agency-jekyll-theme/_includes/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.126 seconds.
+[33m                    Auto-regeneration may not work on some Windows versions.[0m
+[33m                    Please see: https://github.com/Microsoft/BashOnWindows/issues/216[0m
+[33m                    If it does not work, please upgrade Bash on Windows or run Jekyll with --no-watch.[0m
+ Auto-regeneration: enabled for '/home/david/git/agency-jekyll-theme/_includes'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+[2018-12-23 19:16:14] ERROR `/index.html' not found.
+[2018-12-23 19:17:20] ERROR `/jekyll-agency-theme' not found.
+[2018-12-23 19:17:24] ERROR `/jekyll-agency-theme/' not found.
+[2018-12-23 19:17:46] ERROR `/jekyll-agency-theme/' not found.
+[2018-12-23 19:18:31] ERROR `/agency-jekyll-theme/' not found.
+[2018-12-23 19:18:34] ERROR `/agency-jekyll-theme/' not found.
