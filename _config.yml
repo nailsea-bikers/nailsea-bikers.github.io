@@ -27,3 +27,4 @@ permalink: pretty
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-sitemap
