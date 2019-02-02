@@ -6,6 +6,9 @@ title: Nailsea Bikers
 email: nailseabikers@hotmail.com
 description: "Welcome to Nailsea Bikers and the home to the ‘Nailsea International Bike Show’."
 
+# Google Analytics
+google_analytics: UA-133651180-1
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
@@ -21,4 +24,4 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
-# permalink: /blog/:title
+
