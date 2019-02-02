@@ -25,3 +25,5 @@ address:
 markdown: kramdown
 permalink: pretty
 
+plugins:
+  - jekyll-redirect-from
