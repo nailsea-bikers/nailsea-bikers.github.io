@@ -8,6 +8,6 @@ img: food-and-drink-600.jpg
 thumbnail: food-and-drink-400.jpg
 alt: Food and Drink
 category: Food
-description: <a href="https://www.facebook.com/PhotoActionbyTonySmith/" target="_blank">Photo Credit Tony Smith</a><p>The Royal Oak provides a BBQ and a wide selection of drinks.  We will also be selling homemade cakes and ice-creams to raise money for charity.</p>
+description: <a href="https://www.facebook.com/PhotoActionbyTonySmith/" target="_blank">Photo Credit Tony Smith</a><p>There will be food available and a wide selection of drinks.  We will also be selling homemade cakes and ice-creams to raise money for charity.</p>
 
 ---
