@@ -1,6 +1,8 @@
 url: https://nailseabikers.org.uk
 baseurl: https://nailseabikers.org.uk
-
+plugins:
+  - jekyll-sitemap
+  
 # Site settings
 title: Nailsea Bikers
 email: nailseabikers@hotmail.com
