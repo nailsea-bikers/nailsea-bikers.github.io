@@ -15,6 +15,8 @@
     <article>
       <p>{{ page.date | date: "%-d/%b/%Y" }}</p>
       <h1>{{ page.title }}</h1>
+      <img src="{{ site.baseurl }}/img/blog/{{ page.img }}" class="img-responsive img-centered" alt="{{ page.alt }}">
+      <br/>
       {{ content }}
     </article>
     {% include footer.html %}
