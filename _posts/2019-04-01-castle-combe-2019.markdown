@@ -1,7 +1,7 @@
 ---
 title: Castle Combe Classic Bike Racing 2019
 layout: blog
-date: 2019-01-23
+date: 2019-04-01
 img: castle-combe.jpg
 thumbnail: castle-combe-400.jpg
 alt: Castle Combe Classic Bike Racing
@@ -12,7 +12,7 @@ description: Nailsea Bikers will have a stand at the Castle Combe Classic Bike R
 
 Nailsea Bikers will have a stand to promote our show at a new Classic bike racing event at Castle Combe on 6th - 7th April as well as the usual Grand National bike racing on the 31st Aug & 1st Sept.
 
-Both are great events please come along and visit our stand and say hello.
+Both are great events please come along and visit our stand on Quarry Corner and say hello.
 
 [http://bikesatcombe.com/](http://bikesatcombe.com/){:target="_blank"}
 
