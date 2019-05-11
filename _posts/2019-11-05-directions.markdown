@@ -12,6 +12,6 @@ description: Directions to the Nailsea Bike Show
 
 The Nailsea Bike show is in a new location this year - The Ring O Bells pub - <a href="https://goo.gl/maps/W6MeZ2wZbGC2" target="_blank">Google Maps</a>
 
-Please see the map abovae for the new location in relation to the old location.
+Please see the map above for the new location in relation to the old location.
 
 Follow the brown signs to "Tithe Barn" and it will take you directly to the show.  There will also be bike show signs at key junctions.
