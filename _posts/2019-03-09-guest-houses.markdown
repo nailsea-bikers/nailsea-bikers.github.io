@@ -116,3 +116,12 @@ N End Rd, Bristol BS49 4AU
 Phone: 01934 839100
 
 ---
+### Myrtle Farm (Camping)
+
+[https://www.campingandcaravanningclub.co.uk/campsites/uk/somerset/nailsea/myrtlefarm1/](https://www.campingandcaravanningclub.co.uk/campsites/uk/somerset/nailsea/myrtlefarm1/)
+
+Nailsea, Bristol BS48 4DE
+
+Phone: 01275 856015
+
+---
