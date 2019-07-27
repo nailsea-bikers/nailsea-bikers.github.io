@@ -124,4 +124,13 @@ Nailsea, Bristol BS48 4DE
 
 Phone: 01275 856015
 
+Please note, the camping is close to the venue but walking is not advised as there are no pavements and the country roads are unlit.  We would recommend getting a taxi.
+
 ---
+
+## Taxi Companies
+
+*Please book well in advance as Nailsea taxi services book up quickly*
+
+Nailsea Cars -  01275 797779
+Nailsea Backwell Taxis - 01275 799999

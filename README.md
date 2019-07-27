@@ -16,4 +16,4 @@ As motorcycle enthusiasts we do more than just organise the annual bike show. We
 Install jekyll - [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/)
 
 To run locally:
-`jekyll serve --config _config.yml,_config_dev.yml`
+`bundle exec jekyll serve --config _config.yml,_config_dev.yml`
