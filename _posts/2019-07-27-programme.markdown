@@ -26,7 +26,7 @@ description: Full list of all the events and bands
 
 **3:00PM** Phil IBA - Leaves on guess the mileage ride.
 
-**3:30**PM Mulberry Junction – A four piece band from Nailsea playing a mix of classic covers and original music.
+**3:30PM** Mulberry Junction – A four piece band from Nailsea playing a mix of classic covers and original music.
 
 **4:30PM**	Charity Auction
 
