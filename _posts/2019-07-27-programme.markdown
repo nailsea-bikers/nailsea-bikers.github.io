@@ -46,7 +46,9 @@ description: Full list of all the events and bands
 
 **1:00PM** CHSW - a short Summary on the Charity.
 	
-**1:30PM** Mudheads – High energy performance of Classic covers with a punk twist.
+**1:30PM** Drifftwood - Five piece Bath-based rock and
+blues band playing classic 50s/60s/70s covers
+with lots of foot tapping energy and style.
 
 **3:00PM** Phil IBA – Returns from guess mileage ride.
 
