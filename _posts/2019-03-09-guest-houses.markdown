@@ -118,7 +118,7 @@ Phone: 01934 839100
 ---
 ### Myrtle Farm (Camping)
 
-[https://www.campingandcaravanningclub.co.uk/campsites/uk/somerset/nailsea/myrtlefarm1/](https://www.campingandcaravanningclub.co.uk/campsites/uk/somerset/nailsea/myrtlefarm1/)
+[http://myrtlefarmholidays.co.uk/](http://myrtlefarmholidays.co.uk/)
 
 Nailsea, Bristol BS48 4DE
 
