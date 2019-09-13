@@ -52,7 +52,7 @@ with lots of foot tapping energy and style.
 
 **3:00PM** Phil IBA – Returns from guess mileage ride.
 
-**3:00PM** The Munchies – An amazing group of young talented musicians with a cute, edgy rock vibe.
+**3:00PM** Chiaroscuro– Progressive rock/metal from the badlands of Bristol. Guitar solos, odd time signatures and long songs.
 	
 **3:45PM** Awards Raffle etc.
 
