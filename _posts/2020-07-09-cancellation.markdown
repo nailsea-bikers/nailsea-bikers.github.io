@@ -6,7 +6,7 @@ img: bikes-600.jpg
 thumbnail: bikes-400.jpg
 alt: Cancellation of 2020 Show
 category: blog
-description: Directions to the Nailsea Bike Show
+description: Full statement on the 2020 show's cancellation
 
 ---
 
