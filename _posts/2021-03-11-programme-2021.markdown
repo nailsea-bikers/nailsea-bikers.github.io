@@ -10,8 +10,6 @@ description: Full list of all the events and bands
 
 ---
 
- <a href="{{ site.baseurl }}/img/blog/programme2021.pdf" target="_blank">2021 Programme (PDF format)</a>
-
 ## Saturday 11th September
 
 **10:55AM** Show opening - Intro/Welcome
@@ -38,7 +36,7 @@ description: Full list of all the events and bands
 
 Music moves inside
 
-**9:30PM** Raising Cain – An exciting local band playing Classic Rock, Pop and Country Rock covers to a high standard.
+**9:30PM** Mudheads – This band will keep the evening rocking with their high energy performance of Classic covers with a punk twist. 
 
 ## Sunday 12th September
 
@@ -52,10 +50,10 @@ Music moves inside
 
 **2:15PM** Phil IBAUK – Announcement
 
-**2:45PM** Mudheads – High energy performance of Classic covers with a punk twist.
+**2:45PM** Tairní Mara – Formed in Nailsea, Tairní Mara play mainly traditional instrumental Irish folk music including jigs, reels, hornpipes, polkas and airs
 	
 **3:45PM** Awards, Raffle, Auction etc.
 
-**4:45PM** Stone Gold – A group of guys who get together and play music for whoever will listen. Playing a selection of classic rock from before they were born. They are self-cleaning and all magical.
+**4:45PM** The Salvage Crew – Local musicians with years of experience playing 50's to 90's pop, rock favourites that will get your feet tapping. We'll put a smile of your face.
 	
 **6:00PM** Show closes :(
