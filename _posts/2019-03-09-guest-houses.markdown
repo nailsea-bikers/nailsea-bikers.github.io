@@ -124,7 +124,7 @@ Nailsea, Bristol BS48 4DE
 
 Phone: 01275 856015
 
-Please note, the camping is close to the venue but walking is not advised as there are no pavements and the country roads are unlit.  The campsite provide a shuttle service to and from the event for a small additional fee.
+Please note, the camping is close to the venue but walking is not advised as there are no pavements and the country roads are unlit.  The campsite provide a shuttle service to and from the event for a small additional fee, if you require this please mention the bike show and request this in advance.
 
 ---
 
