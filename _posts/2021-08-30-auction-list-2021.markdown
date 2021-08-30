@@ -2,8 +2,8 @@
 title: 2021 Auction List
 layout: blog
 date: 2021-08-30
-img: band-600.jpg
-thumbnail: band-400.jpg
+img: bikes-600.jpg
+thumbnail: bikes-400.jpg
 alt: 2021 Auction List
 category: blog
 description: List of the Auction lots
