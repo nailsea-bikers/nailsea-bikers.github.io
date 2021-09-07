@@ -1,5 +1,5 @@
 ---
-title: Bikes and Awards
+title: Display Bikes and Awards
 subtitle: Show
 layout: default
 modal-id: 1
