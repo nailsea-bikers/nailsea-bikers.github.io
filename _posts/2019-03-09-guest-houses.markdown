@@ -127,7 +127,11 @@ Phone: 01275 856015
 Please note, the camping is close to the venue but walking is not advised as there are no pavements and the country roads are unlit.  The campsite provide a shuttle service to and from the event for a small additional fee, if you require this please mention the bike show and request this in advance.
 
 ---
+Airbnb
 
+[Rentals in Nailsea](https://www.airbnb.co.uk/nailsea-united-kingdom/stays)
+
+---
 ## Taxi Companies
 
 *Please book well in advance as Nailsea taxi services book up quickly*
