@@ -1,9 +1,9 @@
 ---
 title: Directions to the show
 layout: blog
-date: 2019-05-11
-img: 
-thumbnail: 
+date: 2022-05-08
+img: directions-2022.jpg
+thumbnail: directions-2022-400.jpg
 alt: Directions to show
 category: blog
 description: Directions to the Nailsea Bike Show
