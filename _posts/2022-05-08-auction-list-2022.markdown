@@ -1,0 +1,15 @@
+---
+title: 2022 Auction List
+layout: blog
+date: 2022-05-05
+img: bikes-600.jpg
+thumbnail: bikes-400.jpg
+alt: 2022 Auction List
+category: blog
+description: List of the Auction lots
+
+---
+
+## Nailsea Bike Show Auction Lots
+
+More details to follow soon
