@@ -1,0 +1,17 @@
+---
+title: 2023 Show Programme
+layout: blog
+date: 2023-03-15
+img: band-600.jpg
+thumbnail: band-400.jpg
+alt: 2023 Show Programme
+category: blog
+description: Full list of all the events and bands
+
+---
+
+TBC - more information to follow closer to the date
+
+## Saturday 16th September
+
+## Sunday 17th September
