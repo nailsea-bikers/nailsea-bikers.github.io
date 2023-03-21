@@ -16,4 +16,6 @@ Follow the brown signs to "Tithe Barn" and it will take you directly to the show
 
 On arrival to the show you will be directed by a team member to a suitable parking area.
 
+Additional parking is available [here](https://goo.gl/maps/sUdrmcBiWCstMJkAA).
+
 As the show is being held in a residential area we ask all our visitors to be respectful of our neighbours when arriving and leaving the venue.
