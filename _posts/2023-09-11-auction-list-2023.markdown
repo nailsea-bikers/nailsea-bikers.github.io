@@ -1,7 +1,7 @@
 ---
 title: 2023 Auction List
 layout: blog
-date: 2023-09-15
+date: 2023-09-11
 img: bikes-600.jpg
 thumbnail: bikes-400.jpg
 alt: 2023 Auction List
