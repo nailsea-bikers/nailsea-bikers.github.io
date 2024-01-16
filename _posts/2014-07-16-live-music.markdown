@@ -8,6 +8,6 @@ img: band-600.jpg
 thumbnail: band-400.jpg
 alt: Live Music
 category: Entertainment
-description: <a href="https://www.facebook.com/PhotoActionbyTonySmith/" target="_blank">Photo Credit Tony Smith</a><p>Every year we have a great line up of popular local bands.  See the <a href="/blog/2023/03/15/programme-2023/">full programme</a> here</p>
+description: <a href="https://www.facebook.com/PhotoActionbyTonySmith/" target="_blank">Photo Credit Tony Smith</a><p>Every year we have a great line up of popular local bands.  See the <a href="/blog/2024/01/16/programme-2024/">full programme</a> here</p>
 
 ---

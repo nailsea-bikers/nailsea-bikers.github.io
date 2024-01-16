@@ -1,0 +1,13 @@
+---
+title: 2024 Show Programme
+layout: blog
+date: 2024-01-16
+img: band-600.jpg
+thumbnail: band-400.jpg
+alt: 2024 Show Programme
+category: blog
+description: Full list of all the events and bands
+
+---
+
+## Full Programme TBC
